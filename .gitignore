@@ -1,0 +1,6 @@
+*.txt
+*.sqlite
+*.aiq
+*.py.un~
+/__pycache__/
+/AddOK/
